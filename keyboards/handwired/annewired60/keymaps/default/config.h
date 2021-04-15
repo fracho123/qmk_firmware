@@ -1,4 +1,4 @@
-/* Copyright 2018 John M Daly
+/* Copyright 2021 Franklin Choi
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
